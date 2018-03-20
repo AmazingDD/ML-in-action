@@ -1,6 +1,7 @@
 # ML-in-action
 Some programs in the book Machine Learning in Action
 ----------
-## chapter 2
-- KNN
-- digits recognition
+##  KNN
+##  Decision Tree (ID.3)
+##  Naive Bayes
+##  Logistic Regression
