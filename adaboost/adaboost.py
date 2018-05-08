@@ -1,8 +1,3 @@
-'''
-Created on Nov 28, 2010
-Adaboost is short for Adaptive Boosting
-@author: Peter
-'''
 from numpy import *
 
 def loadSimpData():
