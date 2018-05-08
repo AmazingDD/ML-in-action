@@ -1,9 +1,3 @@
-'''
-Created on Feb 27, 2011
-MapReduce version of Pegasos SVM
-Using mrjob to automate job flow
-@author: Peter
-'''
 from mrjob.job import MRJob
 
 import pickle
