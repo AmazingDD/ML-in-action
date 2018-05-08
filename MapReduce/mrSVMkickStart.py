@@ -1,8 +1,3 @@
-'''
-Created on Feb 27, 2011
-
-@author: Peter
-'''
 from mrjob.protocol import JSONProtocol
 from numpy import *
 
