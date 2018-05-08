@@ -1,8 +1,3 @@
-'''
-Created on Feb 21, 2011
-
-@author: Peter
-'''
 import sys
 from numpy import mat, mean, power
 
